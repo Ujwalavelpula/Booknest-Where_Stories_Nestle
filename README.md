@@ -172,6 +172,3 @@ For major changes, open an issue first to discuss.
 🙌 Acknowledgements
 Special thanks to everyone who helped shape BookNest.
 Let the stories begin—one book at a time. 📖✨
-
-yaml
-Copy code
